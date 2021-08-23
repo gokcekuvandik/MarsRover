@@ -1,0 +1,13 @@
+C:\Users\KU008\source\repos\HepsiBurada.MarsRover\HepsiBurada.MarsRover\bin\Debug\netcoreapp3.1\HepsiBurada.MarsRover.exe
+C:\Users\KU008\source\repos\HepsiBurada.MarsRover\HepsiBurada.MarsRover\bin\Debug\netcoreapp3.1\HepsiBurada.MarsRover.deps.json
+C:\Users\KU008\source\repos\HepsiBurada.MarsRover\HepsiBurada.MarsRover\bin\Debug\netcoreapp3.1\HepsiBurada.MarsRover.runtimeconfig.json
+C:\Users\KU008\source\repos\HepsiBurada.MarsRover\HepsiBurada.MarsRover\bin\Debug\netcoreapp3.1\HepsiBurada.MarsRover.runtimeconfig.dev.json
+C:\Users\KU008\source\repos\HepsiBurada.MarsRover\HepsiBurada.MarsRover\bin\Debug\netcoreapp3.1\HepsiBurada.MarsRover.dll
+C:\Users\KU008\source\repos\HepsiBurada.MarsRover\HepsiBurada.MarsRover\bin\Debug\netcoreapp3.1\HepsiBurada.MarsRover.pdb
+C:\Users\KU008\source\repos\HepsiBurada.MarsRover\HepsiBurada.MarsRover\obj\Debug\netcoreapp3.1\HepsiBurada.MarsRover.csproj.AssemblyReference.cache
+C:\Users\KU008\source\repos\HepsiBurada.MarsRover\HepsiBurada.MarsRover\obj\Debug\netcoreapp3.1\HepsiBurada.MarsRover.AssemblyInfoInputs.cache
+C:\Users\KU008\source\repos\HepsiBurada.MarsRover\HepsiBurada.MarsRover\obj\Debug\netcoreapp3.1\HepsiBurada.MarsRover.AssemblyInfo.cs
+C:\Users\KU008\source\repos\HepsiBurada.MarsRover\HepsiBurada.MarsRover\obj\Debug\netcoreapp3.1\HepsiBurada.MarsRover.csproj.CoreCompileInputs.cache
+C:\Users\KU008\source\repos\HepsiBurada.MarsRover\HepsiBurada.MarsRover\obj\Debug\netcoreapp3.1\HepsiBurada.MarsRover.dll
+C:\Users\KU008\source\repos\HepsiBurada.MarsRover\HepsiBurada.MarsRover\obj\Debug\netcoreapp3.1\HepsiBurada.MarsRover.pdb
+C:\Users\KU008\source\repos\HepsiBurada.MarsRover\HepsiBurada.MarsRover\obj\Debug\netcoreapp3.1\HepsiBurada.MarsRover.genruntimeconfig.cache
