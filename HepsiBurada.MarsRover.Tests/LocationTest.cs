@@ -21,9 +21,9 @@ namespace HepsiBurada.MarsRover.Tests
         [TestCase("LLRMLRMMRL", 5, 5, false, Category = "Action like Input.")]
         [TestCase("1 2 n", 5, 5, false, Category = "Lowercase Input.")]
         [TestCase("1 2 N", 5, 5, true, Category = "Valid Input.")]
-        [TestCase("1 2 N", 0, 5, false, Category = "Valid Input with x=0.")]
-        [TestCase("1 2 N", 5, 0, false, Category = "Valid Input with y=0.")]
-        [TestCase("1 2 N", 0, 0, false, Category = "Valid Input with x=0, y=0.")]
+        [TestCase("1 2 N", 0, 5, false, Category = "Invalid Input with x=0.")]
+        [TestCase("1 2 N", 5, 0, false, Category = "Invalid Input with y=0.")]
+        [TestCase("1 2 N", 0, 0, false, Category = "Invalid Input with x=0, y=0.")]
         [TestCase("1 2 N", -10, -10, false, Category = "Negative Input.")]
         public void IsValidTests(string input, int maxRowNo, int maxColumnNo, bool expected)
         {
